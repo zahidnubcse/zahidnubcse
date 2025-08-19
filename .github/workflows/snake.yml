@@ -1,9 +1,8 @@
-
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,11 +13,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create dist folder
+        run: mkdir -p dist
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: zahidnubcse
-          outputs: dist/snake.svg
+          output: dist/snake.svg
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v3
