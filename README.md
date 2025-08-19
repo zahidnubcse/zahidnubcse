@@ -74,8 +74,9 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/zahidnubcse/zahidnubcse/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![snake animation](https://raw.githubusercontent.com/zahidnubcse/zahidnubcse/output/snake.svg)
+
 
 ---
 
