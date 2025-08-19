@@ -74,10 +74,12 @@
 
 ---
 
+---
+
 ## 🐍 Contribution Snake
 ![snake animation](https://raw.githubusercontent.com/zahidnubcse/zahidnubcse/output/snake.svg)
 
-
 ---
 
-⭐️ From [Zahid Hasan](https://github.com/zahidnubcse)  
+⭐️ From [Zahid Hasan](https://github.com/zahidnubcse)
+
