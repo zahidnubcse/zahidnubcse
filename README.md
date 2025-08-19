@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Zahid Hasan  
 
-<img src="https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-1/498592912_1388778059037765_7573106393754432628_n.jpg" width="180" style="border-radius:50%;margin-top:10px;" />
+<img src="https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-1/498592912_1388778059037765_7573106393754432628_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGIggqfcM5nrOFqDOqimghfHdAcp7cb89wd0Byntxvz3Jw9MZ__rePGhC5MW4ce_ceBrpLzUpkKT61IlrSTXxvJ&_nc_ohc=m6k2vumr37gQ7kNvwHPYUkX&_nc_oc=AdmSMI1_CzZlA8myjtz2AtvKVzWJMHfzMd0O9qkV7rc2uy0rl_WD3Nr9Z-nlkpeBPxE&_nc_zt=24&_nc_ht=scontent.fdac27-1.fna&_nc_gid=WEqszisH2n4BbtLO2MEFbw&oh=00_AfWKkLD_08wEjOEUr3ui6o7lHBkeY6Y4G_q5xx8v8oDUyA&oe=68AA89EF" width="180" style="border-radius:50%;margin-top:10px;" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+💻;SEO+Expert+🔍;AI+Enthusiast+🤖;Lifelong+Learner+🚀)](https://git.io/typing-svg)
 
@@ -64,10 +64,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/CodePulse"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://zahidhasan634.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zahid-hasan-52a74a2a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/zahidnub/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:zahidnubcse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
