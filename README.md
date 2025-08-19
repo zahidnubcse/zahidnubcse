@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Zahid Hasan  
 
@@ -45,16 +45,15 @@
 
 ## 📊 GitHub Stats (Dynamic)
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=zahidnubcse&show_icons=true&theme=radical&count_private=true&cache_bust=2" />
-
+ <img src="https://github-readme-stats.vercel.app/api?username=zahidnubcse&show_icons=true&theme=radical&count_private=true&cache_bust=3" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidnubcse&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidnubcse&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zahidnubcse&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zahidnubcse&theme=radical&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
