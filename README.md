@@ -45,7 +45,8 @@
 
 ## 📊 GitHub Stats (Dynamic)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidnubcse&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=zahidnubcse&show_icons=true&theme=radical&count_private=true&cache_bust=2" />
+
 </p>
 
 <p align="center">
