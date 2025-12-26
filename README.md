@@ -2,7 +2,8 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Zahid Hasan  
 
-<img src="profile.jpg" width="180" style="border-radius:50%;margin-top:10px;" />
+<img src="./.github/workflows/profile.jpg" width="180" style="border-radius:50%; margin-top:10px;" />
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+💻;SEO+Expert+🔍;AI+Enthusiast+🤖;Lifelong+Learner+🚀)](https://git.io/typing-svg)
